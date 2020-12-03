@@ -21,6 +21,7 @@ npm install -S @jswork/next-registry-choices
 import NxRegistryChoices from '@jswork/next-registry-choices';
 
 NxRegistryChoices.gets();
+
 /*
 [
   {
